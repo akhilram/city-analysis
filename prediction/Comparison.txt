@@ -1,0 +1,55 @@
+Evaluation
+Avg Rating
+linear model: Error :1.5808599650784219
+polynomial model: Error :1.8499873357277523
+
+Avg Rating - without zeroes
+linear model: Error :1.6864622179534325
+polynomial model: Error :1.8753474035884024
+
+Avg Rating - ge 25
+linear model: Error :0.9386646831965586
+polynomial model: Error :1.107596821994896
+
+Avg Rating - ge 50
+linear model: Error :0.5699151429486582
+
+
+Review count
+linear model: Error :1.1654180313932914
+polynomial model: Error :1.4570799910922692
+
+review count - without zeroes
+linear model - Error :1.6066731307416917
+
+review count - ge 25
+linear model - Error :3.523534723097974
+
+review count - ge 50
+linear model Error :5.245253658842682
+
+
+With competitor information
+Avg Rating
+linear model:Error :2.373418868431216
+
+Avg Rating - without zeroes
+linear model: 
+
+Avg Rating - ge25
+linear model: Error :1.0112534762614014
+
+Avg Rating - ge50
+linear model: Error :0.7477695981147581
+
+Review count
+linear model: Error :4.021624388574796
+
+review count - without zeroes
+linear model - Error :4.258949553054438
+
+review count - ge 25
+linear model - Error :8.620387651337083
+
+review count - ge 50
+linear model Error :11.146533882606427
